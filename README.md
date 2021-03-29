@@ -7,3 +7,5 @@
 * Ejercicio de tercera práctica (Calculadora de Metros Cuadrados) casa
 
 * Ejercicio de tercera práctica (Calculadora de edades) edad
+
+* Ejercicio de cuarta práctica (Obtener Diploma) notas
