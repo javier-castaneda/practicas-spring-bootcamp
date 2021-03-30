@@ -11,3 +11,5 @@
 * Ejercicio de cuarta práctica (Obtener Diploma): notas
 
 * Ejercicio de quinta práctica (Calculadora de Calorías): food
+
+* Ejercicio de quinta práctica (Star Wars): starwars
